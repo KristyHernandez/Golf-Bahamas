@@ -1,0 +1,75 @@
+body{font-family: 'Open Sans', sans-serif;}
+p{font-weight:400}
+h1{font-weight: 700;}
+#banner_area1{width: 100%; overflow: hidden;  position: relative;}
+#banner_area1.item1{width: 100%;}
+#banner_area1.item1 img{width: 100%; overflow: auto;}
+
+
+body{font-family: 'Open Sans', sans-serif;}
+p{font-weight:150}
+h2{font-weight: 150;}
+#banner_area2{width: 100%; overflow: hidden; position: relative;}
+#banner_area2.item2{width: 100%; overflow: hidden;}
+#banner_area2.item2 img{width: 100%; overflow: auto;}
+
+
+body{font-family: 'Open Sans', sans-serif;}
+p{font-weight:150}
+
+
+
+.main_banner a{background: #3bafbe none repeat scroll 0 0;}
+
+body{font-family: 'Open Sans', sans-serif;}
+p{font-weight:150}
+h3{font-weight: 150;}
+#banner_area4{width: 100%; overflow: hidden; position: relative;}
+#banner_area4.item4{width: 100%; overflow: hidden;}
+#banner_area4.item4 img{width: 100%; overflow: auto;}
+
+.item4 {background-color: #eaeded; text-align: center;}
+
+body{font-family: 'Open Sans', sans-serif;}
+p{font-weight:150}
+h3{font-weight: 150;}
+#banner_area5{width: 100%; overflow: hidden; position: relative;}
+#banner_area5.item4{width: 100%; overflow: hidden;}
+#banner_area5.item4 img{width: 100%; overflow: auto;}
+
+body{font-family: 'Open Sans', sans-serif;}
+p{font-weight:150}
+h3{font-weight: 150;}
+#banner_area6{width: 100%; overflow: hidden; position: relative;}
+#banner_area6.item6{width: 100%; overflow: hidden;}
+#banner_area6.item6 img{width: 100%; overflow: auto;}
+
+body{font-family: 'Open Sans', sans-serif;}
+p{font-weight:150}
+h6{font-weight: 150;}
+#banner_area7{width: 100%; overflow: hidden; position: relative;}
+#banner_area7.item5{width: 100%; overflow: hidden;}
+#banner_area7.item6 img{width: 100%; overflow: auto;}
+
+.card.img{width: 100%;height: 100%; }
+
+
+.listaUL {
+list-style: none; /* Quitamos los marcadores */
+padding: 0; /* Quitamos el padding por defecto de la lista */
+margin-left: 10px; /* Separamos la lista de la izquierda */
+}
+
+.listado::before { /* Añadimos contenido antes de cada elemento de la lista */
+content: "\2022"; /* Insertamos el marcador */
+padding-right: 8px; /* Establecemos el espacio entre las viñetas y el list item */
+color: #19B0E8; /* Coloreamos la viñeta */
+font-size: 25px;
+
+}
+
+.azul{
+    color:#19B0E8;
+}
+
+
